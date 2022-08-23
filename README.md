@@ -11,7 +11,7 @@ Das Addon `spamschutz` kombiniert verschiedene Maßnahmen, um zuverlässig **Spa
 * **Mehrsprachig** - Die Fehlermeldung kann je Sprache durch Addons wie Sprog oder XOutputFilter angepasst werden.
 * **reCaptcha Plugin** - ermöglicht die Einbindung von google recaptcha
 
-Weitere geplante Features unter [https://github.com/FriendsOfREDAXO/spamschutz/issues](https://github.com/FriendsOfREDAXO/spamschutz/issues)
+Weitere geplante Features unter [https://github.com/alexplusde/spamschutz/issues](https://github.com/alexplusde/spamschutz/issues)
 
 ## Installation
 
@@ -68,7 +68,7 @@ Bei Formularen mit Eingabe der E-Mail-Adresse, bspw. einem Kontaktformular, kön
 
 * Im REDAXO-Backend unter `YForm` > `Spamschutz` optional Einstellungen vornehmen.
 
-> **Achtung:** Einige Einstellungen haben aktuell noch keine Funktion. Beteilige dich an der Umsetzung unter [https://github.com/FriendsOfREDAXO/spamschutz/issues](https://github.com/FriendsOfREDAXO/spamschutz/issues)
+> **Achtung:** Einige Einstellungen haben aktuell noch keine Funktion. Beteilige dich an der Umsetzung unter [https://github.com/alexplusde/spamschutz/issues](https://github.com/alexplusde/spamschutz/issues)
 
 ## Tipps und Tricks
 
