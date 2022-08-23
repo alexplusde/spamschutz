@@ -10,6 +10,10 @@ requires:
     php:
         version: ">=7.4,<9"
 
+conflict:
+    packages:
+        yform_spam_protection: ">0"
+
 page:
     hidden: true
 
