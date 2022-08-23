@@ -1,4 +1,4 @@
-# Spamschutz für REDAXO 5 YForm 4
+# Spamschutz 2 für REDAXO 5 YForm 4 (Aktuell in Entwicklung)
 
 Das Addon `spamschutz` kombiniert verschiedene Maßnahmen, um zuverlässig **Spam und Bots abzuwehren**. Die Einrichtung ist in **weniger als 5 Minuten** erledigt.
 
