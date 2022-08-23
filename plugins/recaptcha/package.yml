@@ -1,0 +1,11 @@
+package: spamschutz/recaptcha
+version: '1.0.0-beta1'
+author: 'FriendsOfREDAXO'
+supportpage: https://github.com/friendsofredaxo/spamschutz
+
+requires:
+    redaxo: '^5.9'
+    packages:
+        yform: '>=4.0.0-beta1'
+    php:
+        version: '>=7.1'

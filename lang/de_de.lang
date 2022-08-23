@@ -1,0 +1,44 @@
+spamschutz_title = Spamschutz-Einstellungen
+spamschutz_settings = Einstellungen
+spamschutz_error_message = Fehlermeldung
+spamschutz_error_notice = Fehlermeldung, die die Validierung ausgeben soll. Kann mit dem Addon Sprog oder XOutputFilter mehrsprachig übersetzt werden.
+
+spamschutz_timer = Timer
+spamschutz_honeypot = Honeypot
+
+spamschutz_flushed = Alle Log-Einträge wurden gelöscht.
+
+spamschutz_rules = Regeln 
+spamschutz_whitelist = Immer erlauben
+spamschutz_external_services = Zusätzliche externe Dienste
+
+spamschutz_block_session_time_label = Session-Zeitfenster
+spamschutz_block_session_time_notice = Anzahl der Sekunden, die mind. für die Bearbeitung oder Korrektur eines Formulars benötigt werden.
+
+spamschutz_block_form_time_label = Formular-Zeitfenster
+spamschutz_block_form_time_notice = Anzahl der Sekunden, die mind. seit dem 1. Aufruf eines Formulars vergehen muss, bis es erfolgreich abgesendet werden darf.
+
+spamschutz_block_threshold_limit_label  = Erlaubte Versuche
+spamschutz_block_threshold_limit_notice = Anzahl von erlaubten Versandversuchen, bis die Sperre eintritt, z.B. <code>10</code> pro Sperrzeitraum
+
+spamschutz_block_threshold_time_label = Sperrdauer
+spamschutz_block_threshold_time_notice = In Sekunden, in denen das Anfrage-Limit überschritten werden muss, z.B. <code>600</code> für 10 Minuten.
+
+spamschutz_block_tlds_label = Top-Level-Domains
+spamschutz_block_tlds_notice = Top-Level-Domains, deren Mail-Adressen geblockt werden sollen, bspw. <code>.ru</code>
+
+spamschutz_activate = Aktivieren
+spamschutz_deactivate = Deaktivieren
+
+spamschutz_whitelist_ips_label = IP Whitelist
+spamschutz_whitelist_ips_notice = Liste von IPs, die nicht blockiert werden sollen. Z.B. <code>192.168.0.1,192.168.0.2,192.168.0.3</code>
+
+spamschutz_whitelist_user_label = REDAXO-Benutzer ignorieren
+spamschutz_whitelist_user_notice = Ignoriert eingeloggte REDAXO-Benutzer ignorieren.
+
+spamschutz_whitelist_ycom_user_label = YCom-Benutzer ignorieren
+spamschutz_whitelist_ycom_user_notice = Ignoriert eingeloggte YCom-Benutzer
+spamschutz_whitelist_ycom_user_notice_disabled = Ignoriert eingeloggte YCom-Benutzer (YCom ist nicht installiert)
+
+spamschutz_block_stop_forum_spam_label = Stop Forum Spam
+spamschutz_block_stop_forum_spam_notice = Stop Forum Spam ist ein externer Dienst, über den die IP-Adresse der Anfrage geprüft wird. https://www.stopforumspam.com/
