@@ -9,7 +9,6 @@ Das Addon `spamschutz` kombiniert verschiedene Maßnahmen, um zuverlässig **Spa
 * **Barrierefrei** – ohne Rechenaufgabe oder Bild-Captcha. 
 * **DSGVO-konform** – sofern keine Konfiguration mit externen Anbietern gewählt wird.
 * **Mehrsprachig** - Die Fehlermeldung kann je Sprache durch Addons wie Sprog oder XOutputFilter angepasst werden.
-* **reCaptcha Plugin** - ermöglicht die Einbindung von google recaptcha
 
 Weitere geplante Features unter [https://github.com/alexplusde/spamschutz/issues](https://github.com/alexplusde/spamschutz/issues)
 
