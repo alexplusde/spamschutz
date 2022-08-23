@@ -1,7 +1,7 @@
 package: spamschutz
 version: '2.0-beta4'
-author: 'Alexander Walther, FriendsOfREDAXO'
-supportpage: https://github.com/friendsofredaxo/spamschutz
+author: 'Alexander Walther'
+supportpage: https://github.com/alexplusde/spamschutz
 
 requires:
     redaxo: "^5.13"
